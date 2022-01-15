@@ -1,0 +1,2 @@
+# Safe-Trade-Contract
+Solidity
