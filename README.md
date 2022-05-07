@@ -1,3 +1,2 @@
 # Safe-Trade-Contract
-## Bu kodda ki hikaye şudur; bir alıcı bir satıcı vardır bunlar arasında güvenli bir takas yapılıcaktır mesela biliyorsunuz ki alıp satma da en önemli etken ürün verildi para alınamadı para verildi ürün alamadı peki biz bunu nasıl blockchain ile çözüm yöntemine kavuşturuyoruz ? Şöyle ki öncelikle hem alıcıdan parayı satıcıdan ürünü yada her neyse bunları blocklarımızda tutuyoruz.Bunların ardından alıcı parasını verirse satıcı da ürünü veririse anlaşma(enum) onaylanıyor.Onaylandıktan sonra alıcı ve satıcıya ürünümüzü yada parasını her neyse teslim ediyoruz ve güvenli takas sonlanmış oluyor.
-## Bu kodu remix üzerinde deploy edin ardından kodda ki adımları tek tek kodu okuduktan sonra devam ettirirseniz sizleri harika bir contract bekliyor olucak hiç bir güven testi referans yada her neyse gerekmeden tüm işleri blockchain sayesinde halletmiş oluyoruz :)
+## Trading using blockchain. 
